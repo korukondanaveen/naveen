@@ -249,3 +249,44 @@ ls
 cd aboutus.html
 cd aboutuspage.html
 vi aboutuspage.html
+clear
+ls
+cd aboutuspage,html
+cd aboutuspage.html
+ls
+vi aboutuspage.html
+cd ..
+ls
+cd careerspage.html
+vi careerspage.html
+cd ..
+ls
+clear
+ls
+cd Homepage.html
+cat Homepage.html
+vi Homepage.html
+cd ..
+clear
+ls
+cd aboutuspage.html
+cat aboutuspage.html
+vi aboutuspage.html
+ls
+cd ..
+clear
+ls
+git status
+git init
+git status
+git add .
+git status
+git commited -m "files added"
+git commit -m "files added"
+git status
+git --log
+git log --oneline
+git show c827a45 
+ls
+clear
+thnaq
