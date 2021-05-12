@@ -294,3 +294,33 @@ ls
 vi Homepage.html
 clear
 ls
+git status
+git add .
+git status
+git commit -m "modified"
+git status
+git log --oneline
+git show 505785d
+clear
+clear
+ls
+ls data
+cat data
+rm data
+ls
+rmdir data.zip
+rm data.zip
+ls
+rm f2
+rm file1
+rm file2
+rm file3
+ls
+git status
+git commit -m "files modified"
+git add .
+git status
+git commit -m "files added"
+git status
+git log --oneline
+git show 847c45b
