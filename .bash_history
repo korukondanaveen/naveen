@@ -324,3 +324,32 @@ git commit -m "files added"
 git status
 git log --oneline
 git show 847c45b
+ls
+ls -ltr
+git status
+git add .
+git commit -m "modified"
+git config --global user.name"naveen"
+git config --global user.mail "abc@gmail.com"
+git commit -m "modified"
+git branch
+git checkout feture1
+git checkout master
+git branch
+git status
+git add .
+git status
+git commit -m "newfile added"
+git config --global user.name"naveen"
+git config --global user.email naveen@gmail.com
+git commit -m "newfile added"
+git add .
+git commit -m "newfile added"
+git status
+git log --oneline
+git show 12a3c86
+git status
+clear
+ls
+vi loginpage.html
+clear

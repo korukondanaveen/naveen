@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1620823037,,"wq!"
+|2,0,1620994243,,"wq!"
 
 # Search String History (newest to oldest):
 ? @$
@@ -37,35 +37,47 @@ $
 
 # File marks:
 '0  18  0  ~/loginpage.html
-|4,48,18,0,1620823037,"~/loginpage.html"
-'1  7  2  ~/Homepage.html
-|4,49,7,2,1620724418,"~/Homepage.html"
-'2  3  21  ~/aboutuspage.html/aboutuspage.html
-|4,50,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
-'3  3  17  ~/Homepage.html/Homepage.html
-|4,51,3,17,1620662815,"~/Homepage.html/Homepage.html"
-'4  1  0  ~/careerspage.html/careerspage.html
-|4,52,1,0,1620662664,"~/careerspage.html/careerspage.html"
-'5  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,53,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
+|4,48,18,0,1620994243,"~/loginpage.html"
+'1  18  0  ~/loginpage.html
+|4,49,18,0,1620823037,"~/loginpage.html"
+'2  7  2  ~/Homepage.html
+|4,50,7,2,1620724418,"~/Homepage.html"
+'3  3  21  ~/aboutuspage.html/aboutuspage.html
+|4,51,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+'4  3  17  ~/Homepage.html/Homepage.html
+|4,52,3,17,1620662815,"~/Homepage.html/Homepage.html"
+'5  1  0  ~/careerspage.html/careerspage.html
+|4,53,1,0,1620662664,"~/careerspage.html/careerspage.html"
 '6  1  0  ~/aboutuspage.html/aboutuspage.html
 |4,54,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
 '7  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,55,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
+|4,55,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
 '8  1  0  ~/aboutuspage.html/aboutuspage.html
 |4,56,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
-'9  1  0  ~/Homepage.html/Homepage.html
-|4,57,1,0,1620662149,"~/Homepage.html/Homepage.html"
+'9  1  0  ~/aboutuspage.html/aboutuspage.html
+|4,57,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
 
 # Jumplist (newest first):
 -'  18  0  ~/loginpage.html
+|4,39,18,0,1620994243,"~/loginpage.html"
+-'  18  0  ~/loginpage.html
 |4,39,18,0,1620823037,"~/loginpage.html"
+-'  1  0  ~/loginpage.html
+|4,39,1,0,1620822981,"~/loginpage.html"
 -'  1  0  ~/loginpage.html
 |4,39,1,0,1620822981,"~/loginpage.html"
 -'  7  2  ~/Homepage.html
 |4,39,7,2,1620724418,"~/Homepage.html"
 -'  7  2  ~/Homepage.html
 |4,39,7,2,1620724418,"~/Homepage.html"
+-'  7  2  ~/Homepage.html
+|4,39,7,2,1620724418,"~/Homepage.html"
+-'  7  2  ~/Homepage.html
+|4,39,7,2,1620724418,"~/Homepage.html"
+-'  1  0  ~/Homepage.html
+|4,39,1,0,1620724407,"~/Homepage.html"
+-'  1  0  ~/Homepage.html
+|4,39,1,0,1620724407,"~/Homepage.html"
 -'  1  0  ~/Homepage.html
 |4,39,1,0,1620724407,"~/Homepage.html"
 -'  1  0  ~/Homepage.html
@@ -78,6 +90,22 @@ $
 |4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
 -'  3  21  ~/aboutuspage.html/aboutuspage.html
 |4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+-'  3  21  ~/aboutuspage.html/aboutuspage.html
+|4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+-'  3  21  ~/aboutuspage.html/aboutuspage.html
+|4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+-'  3  21  ~/aboutuspage.html/aboutuspage.html
+|4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+-'  3  21  ~/aboutuspage.html/aboutuspage.html
+|4,39,3,21,1620662918,"~/aboutuspage.html/aboutuspage.html"
+-'  1  0  ~/aboutuspage.html/aboutuspage.html
+|4,39,1,0,1620662879,"~/aboutuspage.html/aboutuspage.html"
+-'  1  0  ~/aboutuspage.html/aboutuspage.html
+|4,39,1,0,1620662879,"~/aboutuspage.html/aboutuspage.html"
+-'  1  0  ~/aboutuspage.html/aboutuspage.html
+|4,39,1,0,1620662879,"~/aboutuspage.html/aboutuspage.html"
+-'  1  0  ~/aboutuspage.html/aboutuspage.html
+|4,39,1,0,1620662879,"~/aboutuspage.html/aboutuspage.html"
 -'  1  0  ~/aboutuspage.html/aboutuspage.html
 |4,39,1,0,1620662879,"~/aboutuspage.html/aboutuspage.html"
 -'  1  0  ~/aboutuspage.html/aboutuspage.html
@@ -102,6 +130,38 @@ $
 |4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
 -'  3  17  ~/Homepage.html/Homepage.html
 |4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  3  17  ~/Homepage.html/Homepage.html
+|4,39,3,17,1620662815,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
+-'  1  0  ~/Homepage.html/Homepage.html
+|4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
 -'  1  0  ~/Homepage.html/Homepage.html
 |4,39,1,0,1620662740,"~/Homepage.html/Homepage.html"
 -'  1  0  ~/Homepage.html/Homepage.html
@@ -150,6 +210,38 @@ $
 |4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
 -'  1  0  ~/careerspage.html/careerspage.html
 |4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
+-'  1  0  ~/careerspage.html/careerspage.html
+|4,39,1,0,1620662664,"~/careerspage.html/careerspage.html"
 -'  1  0  ~/aboutuspage.html/aboutuspage.html
 |4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
 -'  1  0  ~/aboutuspage.html/aboutuspage.html
@@ -166,103 +258,11 @@ $
 |4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
 -'  1  0  ~/aboutuspage.html/aboutuspage.html
 |4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662562,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/aboutuspage.html/aboutuspage.html
-|4,39,1,0,1620662364,"~/aboutuspage.html/aboutuspage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
--'  1  0  ~/Homepage.html/Homepage.html
-|4,39,1,0,1620662149,"~/Homepage.html/Homepage.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/loginpage.html
-	*	1620823030	0
+	*	1620994235	0
 	"	18	0
 	^	18	0
 	.	17	0
